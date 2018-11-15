@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 03-spring-boot-filter
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 35-pxiaodong
+Implementation-Vendor-Id: com.bjsxt
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/03-spring-boot-filter
+Created-By: Maven Integration for Eclipse
+
